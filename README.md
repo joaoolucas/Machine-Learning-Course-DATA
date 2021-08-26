@@ -1,6 +1,6 @@
 # Machine Learning Course 🤖
 
-## First week
+## First week - kNN algorithm
 
 In the first class we learned how the k-nearest neighbors algorithm (k-NN) works. KNN is a non-parametric classification, that can be used in machine learning to classify data based on how similar they are with the already known data.
 
