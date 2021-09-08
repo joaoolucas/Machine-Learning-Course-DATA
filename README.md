@@ -16,3 +16,10 @@ In the second week of course, we learned about the importance of EDA (Explorator
 
 
 We're gonna be using EDA in almost every project of data science and machine learning, so is very important to have statistical knowledge and the ability to plot good graphics.
+
+## Third week - Naive Bayes classifier 
+
+In the third class, we learned about the Naives Bayes classifier uses in machine learning. In statistics, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem. We used it to see what are the chances of a message be spam or not, using the famous dataset "Sms Spam Collection". Also using this dataset, we learned a little about Natural language processing.
+
+![image](https://user-images.githubusercontent.com/83239762/132552780-03ab52c0-50ea-4a75-8ce1-c6b84a509503.png)
+
