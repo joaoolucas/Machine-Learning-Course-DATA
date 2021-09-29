@@ -23,3 +23,7 @@ In the third class, we learned about the Naives Bayes classifier uses in machine
 
 ![image](https://user-images.githubusercontent.com/83239762/132552780-03ab52c0-50ea-4a75-8ce1-c6b84a509503.png)
 
+## Fourth week - Data Science Techniques
+We reviewed the last classes and learned a little about encoders, like One Hot Encoder
+
+![image](https://user-images.githubusercontent.com/83239762/135320952-d42916b2-bdd7-488b-9f6b-f980f595e9d4.png)
